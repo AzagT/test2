@@ -1,0 +1,7 @@
+# Created by .gitignore support plugin (hsz.mobi)
+### Packer template
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
