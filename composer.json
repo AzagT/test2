@@ -1,3 +1,19 @@
 {
-	"name": "AzagT/test2"
+	"name": "AzagT/test2",
+	"type": "library",
+	"description": "Test",
+	"keywords": [
+		"test"
+	],
+	"homepage": "http://gediminasm.org/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Oleg Gomulchinsky",
+			"email": "oleg.gomulchinsky@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.2"
+	}
 }
